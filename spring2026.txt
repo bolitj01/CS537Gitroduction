@@ -1,0 +1,1 @@
+This year we will likely see an increase in agentic code generation (and probably increased web security crises as well...)!
